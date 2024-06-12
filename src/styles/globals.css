@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --container-width: 670px;
+  --nav-height: 90px;
+  --max-nav-width: 1280px;
+}
+
+body {
+}
+
+@layer utilities {
+}
+
